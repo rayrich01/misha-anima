@@ -1,0 +1,4 @@
+﻿* text=auto
+*.{ts,tsx,js,css,html} text eol=lf
+*.{png,jpg,jpeg,gif,svg,webp} binary
+*.{woff,woff2,ttf,eot}       binary
